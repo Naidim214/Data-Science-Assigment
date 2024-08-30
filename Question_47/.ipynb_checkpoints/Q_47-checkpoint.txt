@@ -1,0 +1,7 @@
+Why Use a Blueprint:
+Modularity: Blueprints allow you to organize your application into modules, 
+            making it easier to manage and scale large applications.
+Reusability: Blueprints can be reused across different applications or multiple 
+            times within the same application.
+Organization: Helps to logically separate different parts of your application, 
+            such as authentication, main routes, and admin interfaces.

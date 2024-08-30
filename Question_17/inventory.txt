@@ -1,0 +1,2 @@
+Hi this is inventory file
+This file is create to test the above code..
